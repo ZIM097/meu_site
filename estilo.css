@@ -1,0 +1,91 @@
+body{
+    background-color:lightblue;
+    font-family: Arial, sans-serif;
+}
+
+
+ h1{
+    color: navy;
+    text-align: center;
+}
+
+h2{
+    color: midnightblue;
+    text-align: center;
+}
+
+p{
+    color:black;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.boas-vindas{
+    color: darkblue;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.foto-sobre{
+    width: 300px;
+    height: 200px;
+    border:2px solid black;
+    border-radius: 10px;
+    display: block;
+    margin:20px auto;
+}
+
+.img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin:20px auto;
+}
+
+a{
+    color:darkblue;
+    font-size: 20px;
+    font-weight: bold;
+    margin:10px;
+    transition: color 1s ease;
+}
+
+a:hover{
+    color: darkred;
+    text-decoration: underline;
+}
+
+.links{
+    text-align: center;
+    margin-top: 20px;
+}
+    
+table{
+    width: 800px;
+    border:1px solid black;
+    border-collapse: collapse;
+    margin:20px auto;
+}
+
+th, td{
+    border:1px solid black;
+    padding:10px;
+    text-align: center;
+}
+
+.titulo-tabelas{
+    background-color:darkblue;
+    color: white;
+    text-align:center;
+}
+
+.sexo{
+    font-weight:bold;
+    color:darkblue;
+}
+
+.idade, .centro{
+    text-align:center;
+}
